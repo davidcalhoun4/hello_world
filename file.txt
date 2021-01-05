@@ -1,1 +1,5 @@
 my cats are always so curious about what I am doing on my laptop. 
+Paste a link to your github repository below:
+https://github.com/davidcalhoun4/hello_world
+What questions do you have about what we've learned so far using git and github?:
+I have a question about functionality. Though it is streamlined enough I still think the process is tedious. I guess not so much a question... more so I look forward to finding the process to push to github more natural. 
